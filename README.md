@@ -1,3 +1,4 @@
+![Header][https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif]
 <h1 align="center">Hi 👋, I'm Amit Kumar Singh</h1>
 <h3 align="center">A Beginner in Web Developer from India.</h3>
 
